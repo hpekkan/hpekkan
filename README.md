@@ -6,20 +6,28 @@
 <details>
   <summary align="center">Some of my Github Public Stats :computer:</summary>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hpekkan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hpekkan's Github Stats"></p>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=hpekkan&color=blue)
+   <p align="center">
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpekkan&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+</p>
   ----
   
 </details>
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-hpekkan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hpekkan/)](https://www.linkedin.com/in/hpekkan)
+<div align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-hpekkan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hpekkan/)](https://www.linkedin.com/in/hpekkan)
 [![Instagram Badge](https://img.shields.io/badge/-huseyinpekkan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/huseyinpekkan/)](https://instagram.com/huseyinpekkan)
 [![Gmail Badge](https://img.shields.io/badge/-huseyinpekkan1163@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huseyinpekkan1163@gmail.com)](mailto:huseyinpekkan1163@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@huseyinpekkan-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=huseyinpekkan "Follow on Twitter")
 
-## ⚡ Technologies
+  </div>
+
+## <p align="center">⚡ Technologies</p>
+
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
@@ -44,4 +52,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-# <p align="center">![](https://komarev.com/ghpvc/?username=hpekkan)</p> </br>
+  </div>
+  
+ <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=hpekkan)
+  <a href="https://github.com/hpekkan/hpekkan" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/hpekkan/hpekkan?label=profile%20updated&style=flat-square"></a>
+</div>
+
+
