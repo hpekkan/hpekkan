@@ -5,9 +5,10 @@
 
 <details>
   <summary align="center">Some of my Github Public Stats :computer:</summary></br>
+  
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hpekkan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hpekkan's Github Stats"></p>
    <p align="center">
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpekkan&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpekkan&hide=html,jupyter%20notebook,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
   
 </details>
