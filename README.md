@@ -1,7 +1,7 @@
 
 ### <p align="center">Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></p>
 
-#### <p align="center">As an AI Engineering student, I am experienced in a wide range of technologies including deep learning, TensorFlow, machine learning, natural language processing, image processing, web development, web3, and full-stack development using MySQL, Express, React, and Axios. I have hands-on experience in developing applications using React, Flutter, HTML, CSS, and Angular, and have used cloud platforms such as Google Colab, Azure, and AWS. With a passion for creating innovative solutions and a strong technical background, I am always seeking new opportunities to grow and develop my skills.</p>
+#### <p align="center">As an AI Engineering student, I am experienced in a wide range of technologies including deep learning, TensorFlow, machine learning, natural language processing, image processing, web development, web3, and full-stack development using MySQL, Express, FastApi, React, and Axios. I have hands-on experience in developing applications using React, Flutter, HTML, CSS, and Angular, and have used cloud platforms such as Google Colab, Azure, and AWS. With a passion for creating innovative solutions and a strong technical background, I am always seeking new opportunities to grow and develop my skills.</p>
 
 <details>
   <summary align="center">Some of my Github Public Stats and DevCard :computer:</summary></br>
