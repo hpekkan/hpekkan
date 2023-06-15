@@ -16,9 +16,19 @@
 
 ## <p align="center">🛰️ Communication</p>
 <div align="center">
+<a href="https://linkedin.com/in/hpekkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hpekkan" height="30" width="40" /></a>
+  </div>
+  <br>
+  <p align="center">Discover my professional purr-sonality!</p>
+  
+<div align="center">
+<img src="https://github.com/hpekkan/hpekkan/assets/75019129/b0b42ac2-3032-4b77-accd-c8878d7545b6" alt="linkedin qr" width="200" height="200" />
+</div>
+
+
+<div align="center">
   <a href="mailto:huseyinpekkan1163@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-huseyinpekkan1163@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huseyinpekkan1163@gmail.com" alt="hpekkan"/></a>
   <a href="https://twitter.com/huseyinpekkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huseyinpekkan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hpekkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hpekkan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hpekkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hpekkan" height="30" width="40" /></a>
   
   </div>
