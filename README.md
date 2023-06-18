@@ -22,7 +22,7 @@
   <p align="center">Discover my professional purr-sonality!</p>
   
 <div align="center">
-<img src="https://github.com/hpekkan/hpekkan/assets/75019129/b0b42ac2-3032-4b77-accd-c8878d7545b6" alt="linkedin qr" width="200" height="200" />
+  <ahref="https://linkedin.com/in/hpekkan" target="blank"><img src="https://github.com/hpekkan/hpekkan/assets/75019129/b0b42ac2-3032-4b77-accd-c8878d7545b6" alt="linkedin qr" width="200" height="200" /></a>
 </div>
 
 
