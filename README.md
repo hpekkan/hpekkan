@@ -8,7 +8,6 @@
   
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hpekkan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hpekkan's Github Stats"></p>
  <div align="center">
-  <a  href="https://app.daily.dev/hpekkan"><img align="center"src="https://api.daily.dev/devcards/90b2971aa187435e893990c005c11aba.png?r=vlz" width="300" alt="Hüseyin PEKKAN's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpekkan&hide=html,jupyter%20notebook,&hide_border=true&title_color=5391FE&text_color=555">
 </div>
   
